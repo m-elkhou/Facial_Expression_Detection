@@ -1,0 +1,14 @@
+numpy
+tqdm
+pandas
+nltk
+gensim
+tweepy
+textblob
+autocorrect
+#twython
+#tweet-preprocessor
+alphabet-detector
+datetime
+scrapy
+facebook_scraper
