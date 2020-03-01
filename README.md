@@ -3,6 +3,9 @@ Classification des micro expressions
 
 [![](https://i.ytimg.com/vi/H0dOHoLU8cs/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDoskEmT091eSdOIOIiOMhUIWOCkg)](https://www.youtube.com/watch?v=H0dOHoLU8cs)
 
+Now-a-days there is a common trend for a human-computers interaction in the field of machine intelligence. Real time detection of face and interpreting different facial expressions like happy, anger, sad, fear, surprise etc. is based on facial features and their actions. The key elements of face are considered for detection of face and prediction of expressions or emotions of face. To determine the different facial expressions, the variations in each facial features are used. For detection and classification of different classes of facial expressions, machine learning algorithms are used by training of different set of images. The proposed algorithm uses open source computer vision (OpenCV) and Machine learning with python.
+
+
 - ApplicationAndroid : contient l'application sous format apk.
 - CodePythondeProjet : contient le code python de projet.
 - CodeServeur: contient le serveur.
