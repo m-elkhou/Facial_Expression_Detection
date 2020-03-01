@@ -9,8 +9,14 @@ Classification des micro expressions
 - VideoDemonstrationApp : Continet une video qui présente notre application.
 - ic_launcher-web : c'est le logo de notre app Android.
 
-Encadré par : Mr. My Abdelouahed Sabri.
-Réalisé par : Sara Ganiga, Sakina ZININI, Mohammed MAAZOUZ et Mohammed EL-KHOU.
+Encadré par : 
+* Mr. My Abdelouahed Sabri.
+
+Réalisé par : 
+* Sara Ganiga
+* Sakina ZININI
+* Mohammed MAAZOUZ 
+* Mohammed EL-KHOU.
 
 
 
