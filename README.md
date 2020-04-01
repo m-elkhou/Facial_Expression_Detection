@@ -20,9 +20,8 @@ Youtube link video is shown [below](https://www.youtube.com/watch?v=H0dOHoLU8cs)
 [![](https://i.ytimg.com/vi/H0dOHoLU8cs/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDoskEmT091eSdOIOIiOMhUIWOCkg)](https://www.youtube.com/watch?v=H0dOHoLU8cs)
 
 ***
-##The paper link : lien ….
-
-## Authors links:
+##The paper link :
+https://www.academia.edu/42489448/Different_approaches_for_facial_expression_recognition
 
 Supervised by:
 * Mr. My Abdelouahed Sabri.
