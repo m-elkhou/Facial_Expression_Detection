@@ -21,8 +21,7 @@ The proposed automatic micro expression recognition (AMER) uses: OpenCV, Python 
 - ic_launcher-web : Logo of the Android Application.
 
 ***
-##The paper link : lien ….
-### Authors links:
+##The paper link : 
 
 Supervised by:
 * Mr. My Abdelouahed Sabri.
