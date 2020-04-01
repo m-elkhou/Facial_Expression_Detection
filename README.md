@@ -1,5 +1,5 @@
 # Facial_Expression_Detection
-Classification des micro expressions
+Micro expressions classification
 
 [![](https://i.ytimg.com/vi/H0dOHoLU8cs/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDoskEmT091eSdOIOIiOMhUIWOCkg)](https://www.youtube.com/watch?v=H0dOHoLU8cs)
 
