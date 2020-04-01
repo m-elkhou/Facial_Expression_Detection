@@ -6,18 +6,18 @@ Classification des micro expressions
 Now-a-days there is a common trend for a human-computers interaction in the field of machine intelligence. Real time detection of face and interpreting different facial expressions like happy, anger, sad, fear, surprise etc. is based on facial features and their actions. The key elements of face are considered for detection of face and prediction of expressions or emotions of face. To determine the different facial expressions, the variations in each facial features are used. For detection and classification of different classes of facial expressions, machine learning algorithms are used by training of different set of images. The proposed algorithm uses open source computer vision (OpenCV) and Machine learning with python.
 
 
-- ApplicationAndroid : contient l'application sous format apk.
-- CodePythondeProjet : contient le code python de projet.
-- CodeServeur: contient le serveur.
-- CodeSourceAnddroid : contiet le code source de l'application Android.
-- Présentation : Contient la présentation de notre projet.
-- VideoDemonstrationApp : Continet une video qui présente notre application.
-- ic_launcher-web : c'est le logo de notre app Android.
+- ApplicationAndroid : contains the application in apk format.
+- CodePythondeProjet : contains project python code.
+- CodeServeur: contains flask server code.
+- CodeSourceAnddroid : contains source code of the Android application.
+- Présentation : Contains the presentation of our project.
+- VideoDemonstrationApp : Contains a video that presents our application.
+- ic_launcher-web : our Android app logo.
 
-Encadré par : 
+Under the supervision of:
 * Mr. My Abdelouahed Sabri.
 
-Réalisé par : 
+Realized by :
 * Sara Ganiga
 * Sakina ZININI
 * Mohammed MAAZOUZ 
