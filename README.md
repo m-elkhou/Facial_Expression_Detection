@@ -1,34 +1,37 @@
 # Facial_Expression_Detection
 
-## Classification des micro expressions
+## Automatic Micro-Expression Recognition (AMER)
 
-This is the code for [this](https://www.youtube.com/watch?v=H0dOHoLU8cs) video on Youtube.
-
-
+The project code link:
+This is the code for [this](https://www.youtube.com/watch?v=H0dOHoLU8cs) 
+The link of the Youtube video is shown below:
 [![](https://i.ytimg.com/vi/H0dOHoLU8cs/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDoskEmT091eSdOIOIiOMhUIWOCkg)](https://www.youtube.com/watch?v=H0dOHoLU8cs)
 
-Now-a-days there is a common trend for a human-computers interaction in the field of machine intelligence. Real time detection of face and interpreting different facial expressions like happy, anger, sad, fear, surprise etc. is based on facial features and their actions. The key elements of face are considered for detection of face and prediction of expressions or emotions of face. To determine the different facial expressions, the variations in each facial features are used. For detection and classification of different classes of facial expressions, machine learning algorithms are used by training of different set of images. The proposed algorithm uses open source computer vision (OpenCV) and Machine learning with python.
+
+This project was about providing an Android application that can help people take charge of their own emotional health by capturing their micro expressions such as happiness, sadness, anger, disgust, surprise, fear, and neutral. This application consumes a web service which contains our finally Model. This Model predictor is created after testing different approaches for the facial expression recognition. the elaborated approaches are based on different algorithm for features extraction and different machine learning classifiers. 
+The proposed automatic micro expression recognition (AMER) uses: OpenCV, Python and machine learning Algorithms.
 
 
-- ApplicationAndroid : contains the application in apk format.
-- CodePythondeProjet : contains project python code.
-- CodeServeur: contains flask server code.
-- CodeSourceAnddroid : contains source code of the Android application.
-- Présentation : Contains the presentation of our project.
-- VideoDemonstrationApp : Contains a video that presents our application.
-- ic_launcher-web : our Android app logo.
+- AndroidApplication : The APK file of the Android application.
+- PythonCode : The python code of the whole project.
+- ServerCode:  The code of the Flask server.
+- AndroidSourceCode : The source code of the Android App.
+- Presentation: Contains A power Point file which presents our work.
+- AppDemonstrationVideo: Contains a video that shows how our Android App works
+- ic_launcher-web : Logo of the Android Application.
 
 ***
+##The paper link : lien ….
+### Authors links:
 
-### Links
-
-Under the supervision of :
+Supervised by:
 * Mr. My Abdelouahed Sabri.
 
-Realized by :
-* [Sara Ganiga](https://www.linkedin.com/in/sara-ganiga-905456184/)
-* [Sakina ZININI](https://www.linkedin.com/in/sakina-zinini-9b0aa0172/)
-* [Mohammed MAAZOUZ](https://www.linkedin.com/in/mohammed-maazouz/)
+Realized by:
 * [Mohammed EL-KHOU](https://www.linkedin.com/in/m-elkhou/)
+* [Mohammed MAAZOUZ](https://www.linkedin.com/in/mohammed-maazouz/)
+* [Sara GANIGA](https://www.linkedin.com/in/sara-ganiga-905456184/)
+* [Sakina ZININI](https://www.linkedin.com/in/sakina-zinini-9b0aa0172/)
   
-If you liked the repo then kindly support it by giving it a star ⭐!
+If you liked the repo then kindly support it by giving a star ⭐!
+
