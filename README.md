@@ -3,7 +3,6 @@
 ## Automatic Micro-Expression Recognition (AMER)
 
 The project code link:
-
 This is the code for [this](https://www.youtube.com/watch?v=H0dOHoLU8cs) 
 The link of the Youtube video is shown below:
 [![](https://i.ytimg.com/vi/H0dOHoLU8cs/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDoskEmT091eSdOIOIiOMhUIWOCkg)](https://www.youtube.com/watch?v=H0dOHoLU8cs)
