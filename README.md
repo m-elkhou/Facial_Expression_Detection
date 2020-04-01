@@ -1,5 +1,7 @@
 # Facial_Expression_Detection
-Classification des micro expressions
+## Classification des micro expressions
+
+This is the code for [this](https://www.youtube.com/watch?v=H0dOHoLU8cs) video on Youtube.
 
 [![](https://i.ytimg.com/vi/H0dOHoLU8cs/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDoskEmT091eSdOIOIiOMhUIWOCkg)](https://www.youtube.com/watch?v=H0dOHoLU8cs)
 
@@ -14,6 +16,11 @@ Now-a-days there is a common trend for a human-computers interaction in the fiel
 - VideoDemonstrationApp : Contains a video that presents our application.
 - ic_launcher-web : our Android app logo.
 
+
+***
+
+### Links
+
 Under the supervision of :
 * Mr. My Abdelouahed Sabri.
 
@@ -22,13 +29,7 @@ Realized by :
 * Sakina ZININI
 * Mohammed MAAZOUZ 
 * Mohammed EL-KHOU.
-
-
-
-***
-
-### Links
-
+* 
 - [E-mail : ](mailto:m.elkhou@hotmail.com) m.elkhou@hotmail.com
 - [GitHub : ](https://github.com/m-elkhou) m-elkhou
 - [Linkedin : ](https://www.linkedin.com/in/m-elkhou/) Mohammed EL-KHOU
