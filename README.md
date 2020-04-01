@@ -16,7 +16,6 @@ Now-a-days there is a common trend for a human-computers interaction in the fiel
 - VideoDemonstrationApp : Contains a video that presents our application.
 - ic_launcher-web : our Android app logo.
 
-
 ***
 
 ### Links
@@ -25,14 +24,9 @@ Under the supervision of :
 * Mr. My Abdelouahed Sabri.
 
 Realized by :
-* Sara Ganiga
-* Sakina ZININI
-* [Mohammed MAAZOUZ] 
+* [Sara Ganiga](https://www.linkedin.com/in/sara-ganiga-905456184/)
+* [Sakina ZININI](https://www.linkedin.com/in/sakina-zinini-9b0aa0172/)
+* [Mohammed MAAZOUZ](https://www.linkedin.com/in/mohammed-maazouz/)
 * [Mohammed EL-KHOU](https://www.linkedin.com/in/m-elkhou/)
-* 
-
-You can also follow my GitHub Profile to stay updated about my latest projects:
-
-[![GitHub Follow](https://github.com/m-elkhou/tools-/blob/master/svg/Follow-m-elkhou.svg)](https://github.com/m-elkhou)
-
+  
 If you liked the repo then kindly support it by giving it a star ⭐!
