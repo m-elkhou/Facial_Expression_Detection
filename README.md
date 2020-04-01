@@ -6,7 +6,7 @@ This project was about providing an Android application that can help people tak
 The proposed automatic micro expression recognition (AMER) uses: OpenCV, Python and machine learning Algorithms.
 
 
-- [AndroidApplication](AndroidApplication/) : The APK file of the Android application.
+- [AndroidApplication](AndroidApplication/MOODCheck.apk) : The APK file of the Android application.
 - [ProjectCode](ProjectCode/) : The python code of the whole project.
 - [FlaskServerCode](FlaskServerCode/) : The code of the Flask server.
 - [AndroidAppSourceCode](AndroidAppSourceCode/) : The source code of the Android App.
