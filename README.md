@@ -14,7 +14,7 @@ Now-a-days there is a common trend for a human-computers interaction in the fiel
 - VideoDemonstrationApp : Contains a video that presents our application.
 - ic_launcher-web : our Android app logo.
 
-Under the supervision of:
+Under the supervision of :
 * Mr. My Abdelouahed Sabri.
 
 Realized by :
