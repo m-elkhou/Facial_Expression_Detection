@@ -13,6 +13,10 @@ The proposed automatic micro expression recognition (AMER) uses: OpenCV, Python 
 - [Presentation](Presentation/) : Contains A power Point file which presents our work.
 - [ic_launcher-web](ic_launcher-web.png) : Logo of the Android Application.
 
+## Requirements
+
+Python 3.7, and other common packages listed in `requirements.txt`.
+
 ## App implementation
 
 Youtube link video is shown [below](https://www.youtube.com/watch?v=H0dOHoLU8cs) :
