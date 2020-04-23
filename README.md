@@ -1,5 +1,7 @@
 # Facial_Expression_Detection
 
+---
+
 ## Automatic Micro-Expression Recognition (AMER)
 
 This project was about providing an Android application that can help people take charge of their own emotional health by capturing their micro expressions such as happiness, sadness, anger, disgust, surprise, fear, and neutral. This application consumes a web service which contains our finally Model. This Model predictor is created after testing different approaches for the facial expression recognition. the elaborated approaches are based on different algorithm for features extraction and different machine learning classifiers. 
@@ -39,4 +41,5 @@ Realized by:
 * [Sakina ZININI](https://www.linkedin.com/in/sakina-zinini-9b0aa0172/)
 
 If you have any suggestions about papers, feel free to mail us.
+
 If you liked the repo then kindly support it by giving a star ⭐!
