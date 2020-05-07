@@ -1,5 +1,5 @@
 # Facial_Expression_Detection
-
+> The paper [link](https://www.academia.edu/42489448/Different_approaches_for_facial_expression_recognition).
 ---
 
 ## Automatic Micro-Expression Recognition (AMER)
@@ -28,8 +28,6 @@ Youtube link video is shown [below](https://www.youtube.com/watch?v=H0dOHoLU8cs)
 ***
 
 ## Contact & Feedback 
-
-### The paper [link](https://www.academia.edu/42489448/Different_approaches_for_facial_expression_recognition).
 
 Supervised by:
 * Mr. My Abdelouahed Sabri.
